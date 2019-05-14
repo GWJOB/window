@@ -1,6 +1,6 @@
 package com.qianxue.window.controller;
 
-import com.qianxue.window.dao.WinUserDao;
+import com.qianxue.window.dao.win.user.WinUserDao;
 import com.qianxue.window.param.Window;
 import com.qianxue.window.vo.WinUser;
 import org.springframework.beans.factory.annotation.Autowired;
